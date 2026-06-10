@@ -1,4 +1,6 @@
-# DevOps Capstone Template
+# devOps-capstone-project
+
+Customer Accounts Microservice for an e-commerce platform which demonstrates Agile planning and other devops practices
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
