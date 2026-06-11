@@ -1,4 +1,6 @@
-# devOps-capstone-project
+# devOps-capstone-project 
+
+![Build Status](https://github.com/JayinduKarunanayaka/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 Customer Accounts Microservice for an e-commerce platform which demonstrates Agile planning and other devops practices
 
